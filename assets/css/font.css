@@ -11,6 +11,10 @@ body {
     background-color: #7465F7;
     color: #ffffff;
 }
+.btn-blue2 {
+    background-color: #9b90ff;
+    color: #ffffff;
+}
 
 html {
     scroll-behavior: smooth;
