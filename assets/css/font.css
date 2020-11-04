@@ -15,7 +15,17 @@ body {
     background-color: #9b90ff;
     color: #ffffff;
 }
+.btn-discord {
+    background-color: #7289DA;
+    color: #ffffff;
+}
 
 html {
     scroll-behavior: smooth;
+  }
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
   }
