@@ -29,3 +29,11 @@ html {
     margin-right: auto;
     width: 50%;
   }
+  .bg-kamiblue {
+      background-color: #9b90ff;
+      color: #ffffff;
+  }
+  .bg-blue2 {
+    background-color: #9b90ff;
+    color: #ffffff;
+}
